@@ -1,6 +1,6 @@
   ### Thanks for taking the time to visit my Github.
   
-![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelecatani&show_icons=true&theme=radical)
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelecatani&show_icons=true&theme=dark)
 
 <!--
 **michelecatani/michelecatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
