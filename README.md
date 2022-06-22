@@ -1,6 +1,4 @@
   ### Thanks for taking the time to visit my Github.
-  
-  - Michele 
 
 <!--
 **michelecatani/michelecatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
